@@ -52,7 +52,7 @@ Canvas Drawing Demo
 https://github.com/user-attachments/assets/7ea17b06-8c25-4219-84f4-ce0c366e6cca
 
 🧠 Notes
-- This project is optimized for Firefox due to specific API support.
+- This project is optimized for Firefox.
 - Performance may degrade on systems with less than 32 GB RAM during recording.
 
 
